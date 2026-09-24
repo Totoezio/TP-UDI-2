@@ -1,2 +1,3 @@
 este es un proyecto conjunto entre tres alumnos para aprender a usar github
 juego de accion
+juego de Pc
