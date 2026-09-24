@@ -1,2 +1,3 @@
 este es un proyecto en grupo de a 3
 modificacion de graficos
+modificacion de mecanicas
